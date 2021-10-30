@@ -6,4 +6,5 @@ int main()
     cout << "Give an input ";
     cin >> a;
     cout << "THis is " << a;
+    cout << "THis is " << a;
 }
